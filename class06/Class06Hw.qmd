@@ -1,0 +1,74 @@
+---
+title: "Class 6 Function Homework"
+author: "Kyle Wittkop (A18592410)"
+format: pdf
+---
+
+
+>Q Write a function of the supplied code. 
+
+## Supplied code : 
+```{r}
+library(bio3d)
+s1 <- read.pdb("4AKE") # kinase with drug
+s2 <- read.pdb("1AKE") # kinase no drug
+s3 <- read.pdb("1E4Y") # kinase with drug
+s1.chainA <- trim.pdb(s1, chain="A", elety="CA")
+s2.chainA <- trim.pdb(s2, chain="A", elety="CA")
+s3.chainA <- trim.pdb(s1, chain="A", elety="CA")
+s1.b <- s1.chainA$atom$b
+s2.b <- s2.chainA$atom$b
+s3.b <- s3.chainA$atom$b
+plotb3(s1.b, sse=s1.chainA, typ="l", ylab="Bfactor")
+plotb3(s2.b, sse=s2.chainA, typ="l", ylab="Bfactor")
+plotb3(s3.b, sse=s3.chainA, typ="l", ylab="Bfactor")
+```
+
+# Can you improve this analysis code?
+
+## Assignment : 
+
+```{r}
+
+Plot_Bfactor <- function(pdb) {
+  
+  #the input to this function is pdb, the 4 Character pdb ID (e.g. "4AKE")
+  
+  ans <- read.pdb(pdb)
+  ans <- trim.pdb(ans, chain = "A", elety = "CA")
+  
+  # repeated parts of code taken and applied to ans 
+  
+  # 1) Function now reads input pdbfile
+  # 2) trims to chain A and alpha carbon atoms 
+  # 3) applies both to ans 
+
+
+  
+  b <- ans$atom$b
+  
+  # B factors are extracted out of our trimmed pdb file , set to b 
+  
+  
+  plotb3(b, sse = ans, type="l", ylab = "Bfactor")
+  
+  # produces plot using : 
+  # B factors (b)
+  # our trimmed, input pdb file (ans) 
+  # same parameters as original code 
+
+}
+
+#Function output : 
+# Plot of B-factors vs residues
+# Set to our input pdbfile 
+
+
+Plot_Bfactor("4AKE")
+
+#This is an example of the function reading in the "4AKE" pdb file
+# Returns a B-factor plot for the protein. 
+                      
+                  
+```
+
