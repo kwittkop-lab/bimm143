@@ -32,5 +32,7 @@ This repo is for my UCSD bioinformatics class.
 
 - class 17 [Analyzing sequencing data in the cloud](class17/class17.md)
 
-- class 18 [Project: Investigating pertussis resurgence mini-project](class18/class18.md) 
+- class 18 [Project: Investigating pertussis resurgence mini-project](class18/class18.md)
+
+- class 19 [Project: Cancer mutation analysis mini-project](class19/class19.md) 
 
