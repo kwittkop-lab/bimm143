@@ -20,5 +20,5 @@ This repo is for my UCSD bioinformatics class.
 
 - class 11 [Structural Bioinformatics (pt2 AlphaFold)](class11/class11.md) 
 
-- class 12 
+- class 12 [
 
