@@ -8,7 +8,7 @@ This repo is for my UCSD bioinformatics class.
 
 - Class 05 [Data viz with ggplot](class05/class05.md)
 
-- Class 06 [Writing R functions](class06/class06.md) 
+- Class 06 [Writing R functions](Class06/Class06.md) 
 
 - Class 07 [Intro to Machine learning](class07/class07.md) 
 
