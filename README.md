@@ -12,11 +12,11 @@ This repo is for my UCSD bioinformatics class.
 
 - Class 07 [Intro to Machine learning](class07/class07.md) 
 
-- Class 08 [Project: Unsupervised learning mini-project](class08/class08.md)
+- Class 08 [Project: Unsupervised learning mini-project](Class08/Class08.md)
 
 - class 09 [Project: Candy mini-project](class09/class09.md)
 
-- class 10 [Structural Bioinformatics](class10/class10.md)
+- class 10 [Structural Bioinformatics](Class10/class10.md)
 
 - class 11 [Structural Bioinformatics (pt2 AlphaFold)](class11/class11.md) 
 
