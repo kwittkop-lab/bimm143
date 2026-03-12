@@ -1,0 +1,11 @@
+## basic Unix 
+
+some important file system command 
+
+pwd :   Print working directory 
+ls :    list files and folders in current directory 
+cs :    change directory 
+mkdir : make directory 
+rm :    remove directory 
+nano :  a very basic text editor that is always avalibe 
+less : to view/read text files (pager program) 
