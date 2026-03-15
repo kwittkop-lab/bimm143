@@ -12,23 +12,23 @@ This repo is for my UCSD bioinformatics class.
 
 - Class 08 [Project: Unsupervised learning mini-project](Class08/class08.md)
 
-- class 09 [Project: Candy mini-project](class09/class09.md)
+- Class 09 [Project: Candy mini-project](class09/class09.md)
 
-- class 10 [Structural Bioinformatics](Class10/class10.md)
+- Class 10 [Structural Bioinformatics](Class10/class10.md)
 
-- class 11 [Structural Bioinformatics (pt2 AlphaFold)](Class11/Class11.md) 
+- Class 11 [Structural Bioinformatics (pt2 AlphaFold)](Class11/Class11.md) 
 
-- class 12 [Genome informatics and high throughput sequencing](Class12/class12pt2.md)
+- Class 12 [Genome informatics and high throughput sequencing](Class12/class12pt2.md)
 
-- class 13 [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](Class13/Class13.md)
+- Class 13 [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](Class13/Class13.md)
 
-- class 14 [Project: RNA-Seq mini project](Class14/Class14.md)
+- Class 14 [Project: RNA-Seq mini project](Class14/Class14.md)
 
-- class 16 [Essential UNIX for bioinformatics](class16/unix_notes.md)
+- Class 16 [Essential UNIX for bioinformatics](class16/unix_notes.md)
 
-- class 17 [Analyzing sequencing data in the cloud](class17/class17.md)
+- Class 17 [Analyzing sequencing data in the cloud](class17/class17.md)
 
-- class 18 [Project: Investigating pertussis resurgence mini-project](Class18/class18.md)
+- Class 18 [Project: Investigating pertussis resurgence mini-project](Class18/class18.md)
 
-- class 19 [Project: Cancer mutation analysis mini-project](lab19/lab19.pdf) 
+- Class 19 [Project: Cancer mutation analysis mini-project](lab19/lab19.pdf) 
 
