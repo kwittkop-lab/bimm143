@@ -24,13 +24,11 @@ This repo is for my UCSD bioinformatics class.
 
 - class 14 [Project: RNA-Seq mini project](Class14/Class14.md)
 
-- class 15 [Hands-on with Git and GitHub](class15/class15.md)
-
 - class 16 [Essential UNIX for bioinformatics](class16/unix_notes.md)
 
 - class 17 [Analyzing sequencing data in the cloud](class17/class17.md)
 
 - class 18 [Project: Investigating pertussis resurgence mini-project](Class18/class18.md)
 
-- class 19 [Project: Cancer mutation analysis mini-project](class19/class19.md) 
+- class 19 [Project: Cancer mutation analysis mini-project](lab19/lab19.pdf) 
 
