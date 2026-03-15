@@ -6,6 +6,7 @@ table-of-contents: true
 ---
 
 ## Downstream analysis
+
 ```{r}
 library(tximport)
 
@@ -16,6 +17,7 @@ names(files) <- samples
 
 txi.kallisto <- tximport(files, type = "kallisto", txOut = TRUE)
 ```
+
 ```{r}
 head(txi.kallisto$counts)
 ```
