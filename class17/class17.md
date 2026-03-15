@@ -1,5 +1,5 @@
 # class17
-Kyle Wittkop (A18592410)
+Kyle Wittkop(A18592410)
 
 - [Downstream analysis](#downstream-analysis)
 - [Principal Component Analysis](#principal-component-analysis)
